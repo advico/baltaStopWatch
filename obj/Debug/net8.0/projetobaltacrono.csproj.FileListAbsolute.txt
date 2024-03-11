@@ -1,0 +1,14 @@
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.AssemblyInfoInputs.cache
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.AssemblyInfo.cs
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.csproj.CoreCompileInputs.cache
+C:\Users\adria\projetobaltacrono\bin\Debug\net8.0\projetobaltacrono.exe
+C:\Users\adria\projetobaltacrono\bin\Debug\net8.0\projetobaltacrono.deps.json
+C:\Users\adria\projetobaltacrono\bin\Debug\net8.0\projetobaltacrono.runtimeconfig.json
+C:\Users\adria\projetobaltacrono\bin\Debug\net8.0\projetobaltacrono.dll
+C:\Users\adria\projetobaltacrono\bin\Debug\net8.0\projetobaltacrono.pdb
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.dll
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\refint\projetobaltacrono.dll
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.pdb
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\projetobaltacrono.genruntimeconfig.cache
+C:\Users\adria\projetobaltacrono\obj\Debug\net8.0\ref\projetobaltacrono.dll
